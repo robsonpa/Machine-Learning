@@ -1,6 +1,6 @@
 # Projetos
 
-## Sistema de Reconhecimento facial ao vivo em tempo real.
+## Sistema de Reconhecimento facial ao vivo em tempo real. Para automação residencial/comercial e segurança
 
 Projeto Final: EY Fast Track Specialist - Machine Learning
 
